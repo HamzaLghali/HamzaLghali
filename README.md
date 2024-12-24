@@ -5,11 +5,7 @@
 - 📬 You can reach me at [hamza.lghali.ma@gmail.com](mailto:hamza.lghali.ma@gmail.com) or visit my [LinkedIn](https://linkedin.com/in/hamza-lghali).
 
 
-### GitHub Stats
-![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzaLghali&show_icons=true&theme=dark)
-
-### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaLghali&layout=compact&theme=dark)
+![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzaLghali&show_icons=true&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaLghali&layout=compact&theme=dark)
 
 
 ### 🛠 Skills
